@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     PowerSaveMode \
     workloadclassifier \
-    PerformanceMode \
     QPerformance \
     QXPerformance \
     UxPerformance
