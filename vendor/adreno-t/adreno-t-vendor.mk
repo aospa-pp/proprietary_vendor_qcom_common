@@ -34,6 +34,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.qspmhal@1.0_vendor
 
 PRODUCT_PACKAGES += \
+    vendor_lib_libEGL_adreno_so \
+    vendor_lib_libGLESv2_adreno_so \
+    vendor_lib_libq3dtools_adreno_so \
     vendor_lib64_libEGL_adreno_so \
     vendor_lib64_libGLESv2_adreno_so \
     vendor_lib64_libq3dtools_adreno_so
