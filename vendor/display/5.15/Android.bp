@@ -641,6 +641,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libsdm-color",
+    installable: false,
     owner: "qcom",
     strip: {
         none: true,
@@ -698,6 +699,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libsdm-disp-vndapis",
+    installable: false,
     owner: "qcom",
     strip: {
         none: true,
@@ -728,6 +730,7 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
     name: "libsdmextension",
+    installable: false,
     owner: "qcom",
     strip: {
         none: true,
