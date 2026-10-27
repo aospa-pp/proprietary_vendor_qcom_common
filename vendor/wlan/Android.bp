@@ -41,6 +41,7 @@ prebuilt_etc_xml {
 
 cc_prebuilt_binary {
     name: "cnss-daemon",
+    installable: false,
     owner: "qcom",
     target: {
         android_arm64: {
